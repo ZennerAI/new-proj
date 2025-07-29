@@ -12,3 +12,4 @@ This project is created for the purpose of sharing and experimenting with Git an
 3. Push to GitHub
 
 Feel free to experiment and make changes! 
+hello Nir
